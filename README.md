@@ -70,6 +70,8 @@ This function requires the [jQuery JavaScript Library](https://github.com/jquery
 
 ## Versions
 
+August 03, 2019 - Version `1.0.2` released. This version does not count @ mentions against the total used count.
+
 July 25, 2019 - Version `1.0.0` is available in both [.min.js](https://github.com/4cm/textarea_MaxCharacterLimit/blob/master/textarea_MaxCharacterLimit.min.js) format and in a [.js](https://github.com/4cm/textarea_MaxCharacterLimit/blob/master/textarea_MaxCharacterLimit.js) format.
 
 ## Notice
